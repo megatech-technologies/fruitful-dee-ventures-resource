@@ -206,13 +206,19 @@ transition:.3s;
 
 }
 
-.nav-links a:hover,
+.nav-links a:hover{
+
+    background: rgba(255,193,7,.12);
+
+    color: var(--accent);
+
+}
 
 .nav-links a.active{
 
-background:rgba(255,193,7,.12);
+    background: rgba(255,193,7,.12);
 
-color:var(--accent);
+    color: #ffffff;
 
 }
 
