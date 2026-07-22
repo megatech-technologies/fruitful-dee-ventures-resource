@@ -1,37 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
+    <url>
 
-<loc>https://yourdomain.com/</loc>
+        <loc>
+https://megatech-technologies.github.io/fruitful-dees-ventures-resource/
+        </loc>
 
-<priority>1.0</priority>
+        <lastmod>2026-07-22</lastmod>
 
-</url>
+        <changefreq>weekly</changefreq>
 
-<url>
+        <priority>1.0</priority>
 
-<loc>https://yourdomain.com/about.html</loc>
+    </url>
 
-<priority>0.9</priority>
+    <url>
 
-</url>
+        <loc>
+https://megatech-technologies.github.io/fruitful-dees-ventures-resource/about.html
+        </loc>
 
-<url>
+        <lastmod>2026-07-22</lastmod>
 
-<loc>https://yourdomain.com/services.html</loc>
+        <changefreq>monthly</changefreq>
 
-<priority>0.9</priority>
+        <priority>0.9</priority>
 
-</url>
+    </url>
 
-<url>
+    <url>
 
-<loc>https://yourdomain.com/contact.html</loc>
+        <loc>
+https://megatech-technologies.github.io/fruitful-dees-ventures-resource/services.html
+        </loc>
 
-<priority>0.8</priority>
+        <lastmod>2026-07-22</lastmod>
 
-</url>
+        <changefreq>monthly</changefreq>
+
+        <priority>0.9</priority>
+
+    </url>
+
+    <url>
+
+        <loc>
+https://megatech-technologies.github.io/fruitful-dees-ventures-resource/contact.html
+        </loc>
+
+        <lastmod>2026-07-22</lastmod>
+
+        <changefreq>monthly</changefreq>
+
+        <priority>0.8</priority>
+
+    </url>
 
 </urlset>

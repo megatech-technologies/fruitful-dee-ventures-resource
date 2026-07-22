@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://megatech-technologies.github.io/fruitful-dees-ventures-resource/sitemap.xml
