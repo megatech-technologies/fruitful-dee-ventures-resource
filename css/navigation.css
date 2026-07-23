@@ -160,11 +160,7 @@ NAVIGATION
 
 }
 
-.header.scrolled .nav-links a{
 
-    color:var(--dark);
-
-}
 
 /*==================================================
 UNDERLINE
@@ -206,11 +202,7 @@ UNDERLINE
 
 }
 
-.header.scrolled .nav-links a:hover{
 
-    color:var(--primary);
-
-}
 
 /*==================================================
 CTA
@@ -340,6 +332,19 @@ HAMBURGER
 .navbar.active{
 
 right:0;
+
+}
+
+
+.navbar.active .nav-links a{
+
+    color:#fff;
+
+}
+
+.navbar.active .nav-links a.active{
+
+    color:var(--accent);
 
 }
 
