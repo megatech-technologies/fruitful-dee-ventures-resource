@@ -681,3 +681,18 @@ margin-bottom:18px;
 margin:0;
 
 }
+
+
+.services-hero h1{
+
+    color:#fff;
+
+    margin:20px 0;
+
+    overflow-wrap:break-word;
+
+    word-break:normal;
+
+    hyphens:auto;
+
+}

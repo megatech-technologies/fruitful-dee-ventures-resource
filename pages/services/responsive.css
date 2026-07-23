@@ -389,5 +389,8 @@ height:65px;
 font-size:1.7rem;
 
 }
+.footer{
+    overflow:hidden;
+}
 
 }

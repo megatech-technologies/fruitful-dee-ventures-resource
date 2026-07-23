@@ -236,6 +236,47 @@ grid-template-columns:repeat(2,1fr);
 
 }
 
+
+
+
+
+
+
+
+
+
+
+/*==================================================
+TESTIMONIALS
+==================================================*/
+
+.testimonial-grid{
+
+grid-template-columns:repeat(2,1fr);
+
+gap:25px;
+
+}
+
+/*==================================================
+FARM VIDEO
+==================================================*/
+
+
+
+
+.video-wrapper{
+
+    max-width:620px;
+
+}
+
+.video-wrapper video{
+
+    height:360px;
+
+}
+
 }
 
 /*==================================================
@@ -538,6 +579,65 @@ grid-template-columns:1fr;
 
 }
 
+
+
+
+
+
+
+
+
+
+
+/*==================================================
+TESTIMONIALS
+==================================================*/
+
+.testimonial-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.testimonial-card{
+
+padding:30px;
+  max-width:380px;
+
+    margin:auto;
+
+}
+
+/*==================================================
+FARM VIDEO
+==================================================*/
+
+
+
+
+
+
+
+.testimonial-image{
+
+    height:200px;
+
+}
+
+
+.video-wrapper{
+
+    max-width:100%;
+
+    margin-top:45px;
+
+}
+
+.video-wrapper video{
+
+    height:320px;
+
+}
 
 }
 
@@ -857,5 +957,74 @@ padding:28px;
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/*==================================================
+TESTIMONIALS
+==================================================*/
+
+.testimonial-card{
+
+padding:25px;
+
+}
+
+.testimonial-card img{
+
+width:85px;
+
+height:85px;
+
+}
+
+/*==================================================
+FARM VIDEO
+==================================================*/
+
+
+
+.video-wrapper video{
+
+border-radius:18px;
+
+}
+
+
+
+.testimonial-image{
+
+    height:180px;
+
+}
+
+
+.video-wrapper{
+
+    border-radius:18px;
+
+}
+
+.video-wrapper video{
+
+    width:100%;
+
+    height:230px;
+
+    display:block;
+
+    object-fit:cover;
+
+    border-radius:18px;
+
+}
 
 }
