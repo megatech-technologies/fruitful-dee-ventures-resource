@@ -154,7 +154,10 @@ NAVIGATION
 
     font-weight:600;
 
-    color:rgba(255,255,255,.96);
+    color:var(--accent);
+    
+    border-radius: 8px;
+
 
     transition:.35s;
 
@@ -198,7 +201,9 @@ UNDERLINE
 
 .nav-links a:hover{
 
-    color:#fff;
+    color:var(primary);
+    background-color: var(--accent);
+    padding: 10px;
 
 }
 
